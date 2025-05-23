@@ -1,10 +1,13 @@
 #Practice
-x1 = input()
-x2 = input()
+y1 = input()
+y2 = input()
+y3=input()
 
-temp = x1
-x1 = x2
-x2 = temp
+temp=y1
+y1=y2
+y2=y3
+y3=temp
 
-print(x1)
-print(x2)
+print(y1)
+print(y2)
+print(y3)
